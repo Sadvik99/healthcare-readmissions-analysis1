@@ -20,3 +20,6 @@ Analyzed 30-day hospital readmission patterns across 3,000+ US hospitals to iden
 - SQL (SQLite, GROUP BY, CASE WHEN, aggregations)
 - Data Cleaning & Feature Engineering
 - Tableau Public Dashboard Design
+
+## Dashboard Preview
+![Dashboard](dashboard.png)
